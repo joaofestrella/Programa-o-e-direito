@@ -1,1 +1,27 @@
-copiar e colar aqui
+1 - Inteligência Artificial: A inteligência Artificial está cada vez mais presente nos dias atuais. É uma ciência que tem como objetivo estudar e desenvolver máquinas e programas computacionais capazes de reproduzir o comportamento humano na tomada de decisões e na realização de tarefas. A IA é uma tecnologia que tem potencial além da nossa imaginação, isto por que é capaz de solucionar questões complexas, como por exemplo: reduzir os efeitos das mudanças climáticas, fazer uma interlocução entre a tecnologia e medicina para melhorar os tratamentos, etc. Com a criação da IA a máquina passa a ser uma auxiliadora do ser humano e por vezes até sua substituta. É de suma importância que a inteligência artificial seja conduzida e utilizada de forma ética e responsável para minimizar ao máximo os impactos sociais da adoção desse mecanismo. 
+
+2- Algoritmo: O algoritmo é uma série de instruções digitais que são utilizadas para solução de uma questão problemática, normalmente, em um programa de computador. Algoritmos na internet são regras e/ou instruções computacionais.  Os algoritmos são criados conforme um processo de design, de acordo com as necessidades que se apresentam. Por exemplo, são algoritmos programados pelas plataformas digitais que oferecem aos consumidores produtos que estão de acordo com seus hábitos de navegação na Internet. 
+
+3- Informação: Informação é um conjunto organizado de dados, fatos e notícias que possam indicar referências sobre um determinado acontecimento ou fenômeno. O estudo das informações  tem como função obter um diagnóstico mais preciso de alguma situação, ou seja, ter mais conhecimento sobre um determinado assunto. Em outras palavras, estar mais perto da verdade. Esse conceito também se configura ao realizar uma tarefa em que é preciso uma série de dados e fatos para que tal tarefa seja realizada. A informação permite que o raciocínio humano seja trabalhado a todo o momento, isto porque para se chegar a uma conclusão lógica e coerente é necessário avaliar o maior conjunto possível de informações. No âmbito da comunicação social a informação é pública. Ela pode ser produzida e disseminada pelos veículos de imprensa ou por qualquer pessoa que tenha acesso às redes sociais. Na esfera privada, a informação é protegida. Informações pessoais (também conhecidas como dados pessoais) não podem ser utilizadas sem autorização. A tecnologia da informação é uma área da computação que organiza, produz e armazena diversas informações.  
+
+4- Nuvem: A nuvem é uma infraestrutura virtualizada que permite o armazenamento e o processamento de dados e informações. Portanto é um modelo de computação em que os recursos são processados e armazenados e são fornecidos através de uma rede. Nesse modelo a infraestrutura física é transferida pelo provedor de nuvem, fazendo com que os usuários se concentrem apenas em realizar aplicações o que ocasiona uma maior flexibilidade. A criação da nuvem é um avanço com relação as atividades de empresas de TI. Essa importante ferramenta ajuda as empresas a otimizarem em alguns pontos. São eles: Custo, isto é, armazenar na nuvem gera para a empresa um custo muito menor, em comparação ao custo de manter os dados armazenados em seus computadores; velocidade: grandes serviços da computação podem ser providos em minutos; possui uma escala global: a maioria dos serviços em nuvem é provido em escala mundial, em grandes data centers; e confiabilidade: reduz os custos de Backups de dados. Logo, a nuvem é um sistema que tem muitas vantagens em relação ao armazenamento dados ao uso de softwares em data centers próprios. 
+
+5- Dados: Dados são variáveis que representam valores atribuídos a algo, através de símbolos. Os dados descrevem fatos empíricos, observáveis.  Os bancos de dados são conjuntos de dados armazenados segundo algum critério, em plataformas analógicas ou digitais, que podem ser acessados e consultados. Os dados brutos podem ser processados, de maneira a gerar informações, que podem ser consultadas e utilizadas por uma pessoa. Os dados têm sentido descontextualizados. Porém, quando processados e contextualizados, tornam-se informações, que podem servir de base para o conhecimento de um determinado fenômeno, a tomada de decisões ou a realização de uma ação específica.  
+
+ 
+
+Por vezes os dados representam a realidade de forma errônea por não possuírem a informação correta. Para buscar um dado é necessário realizar indagações consequentemente também a conclusões. Os dados podem ser divididos em dois tipos principais. São eles: Dados qualitativos: São dados que dizem respeito as qualidades de algo.  
+
+Dados quantitativos: São dados que tem relação com a quantidade de algo, ou seja, são mensuráveis. Há também os dados discretos, contínuos e categórico. Dados discretos: São representados por números inteiros não negativos. OU seja, também possui uma relação com a quantidade de algo. Dados Contínuos: São dados que possuem relação com o tamanho de algo. Logo usa-se na maioria das vezes valores “quebrados”. Os computadores são bem diferentes dos seres humanos com relação a extração de informações. Algumas tarefas humanas são mais complexas para serem automatizadas por computadores.  
+
+Os dados abertos são dados que podem ser de livre utilização, acesso e compartilhamento. Por essa razão esses dados têm de ser legíveis para as máquinas.  
+
+	Referências: 1- Belas Estações 
+
+			2- fm2s 
+
+			3-Enciclopédia significados 
+
+			4- DT network e Microsoft Azure 
+
+			5- Escola de dados.org 
