@@ -12,14 +12,9 @@ JavaScript, Python e Ruby são linguagens de programação que têm suas própri
      - Suporta programação assíncrona através de Promises e callbacks.
 
    - **Exemplo de código:**
-     ```javascript
-     function saudacao(nome) {
-       console.log("Olá, " + nome + "!");
-     }
-
-     saudacao("Mundo");
-     ```
-
+console.log("Hello world!");
+https://www.mycompiler.io/view/26PCKkcyLuL
+    
 2. **Python:**
    - **Aplicabilidade:**
      - Usado em uma variedade de domínios, incluindo desenvolvimento web, automação, ciência de dados, inteligência artificial e aprendizado de máquina.
@@ -31,13 +26,11 @@ JavaScript, Python e Ruby são linguagens de programação que têm suas própri
      - Possui uma vasta biblioteca padrão que facilita o desenvolvimento de uma variedade de aplicativos.
 
    - **Exemplo de código:**
-     ```python
-     def saudacao(nome):
-         print("Olá, " + nome + "!")
 
-     saudacao("Mundo")
-     ```
+print('Hello world!')
 
+https://www.mycompiler.io/view/8oJeQphrGzT
+    
 3. **Ruby:**
    - **Aplicabilidade:**
      - Comumente usado no desenvolvimento web, especialmente com o framework Ruby on Rails.
@@ -49,12 +42,11 @@ JavaScript, Python e Ruby são linguagens de programação que têm suas própri
      - Filosofia "convenção sobre configuração" (Convention over Configuration) e "DRY" (Don't Repeat Yourself).
 
    - **Exemplo de código:**
-     ```ruby
-     def saudacao(nome)
-       puts "Olá, #{nome}!"
-     end
+puts "Hello world!"
 
-     saudacao("Mundo")
-     ```
+https://www.mycompiler.io/view/DwnvXJqHICK
+     
 
 Embora essas linguagens tenham algumas sobreposições em termos de aplicação, a escolha entre JavaScript, Python e Ruby geralmente depende dos requisitos específicos do projeto, das preferências da equipe de desenvolvimento e do ecossistema de ferramentas disponíveis para cada linguagem.
+
+
