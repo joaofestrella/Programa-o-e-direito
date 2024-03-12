@@ -1,0 +1,60 @@
+JavaScript, Python e Ruby são linguagens de programação que têm suas próprias características, sintaxe e áreas de aplicação. Aqui estão algumas diferenças e aplicabilidades entre essas três linguagens:
+
+1. **JavaScript:**
+   - **Aplicabilidade:**
+     - Principalmente usado para desenvolvimento web, sendo a linguagem de script padrão para navegadores.
+     - Amplamente utilizado para criar interatividade em páginas web, manipular o DOM (Modelo de Objeto de Documento) e realizar chamadas assíncronas (AJAX).
+     - Pode ser usado no lado do servidor com ambientes como Node.js.
+
+   - **Características:**
+     - Sintaxe orientada a objetos e baseada em protótipos.
+     - Executado no navegador do cliente, permitindo interações dinâmicas e assíncronas em páginas web.
+     - Suporta programação assíncrona através de Promises e callbacks.
+
+   - **Exemplo de código:**
+     ```javascript
+     function saudacao(nome) {
+       console.log("Olá, " + nome + "!");
+     }
+
+     saudacao("Mundo");
+     ```
+
+2. **Python:**
+   - **Aplicabilidade:**
+     - Usado em uma variedade de domínios, incluindo desenvolvimento web, automação, ciência de dados, inteligência artificial e aprendizado de máquina.
+     - Possui uma sintaxe clara e legível, facilitando a escrita de código conciso.
+
+   - **Características:**
+     - Linguagem multiparadigma, suportando programação orientada a objetos, funcional e procedural.
+     - Foco na legibilidade do código, usando indentação para definir blocos de código.
+     - Possui uma vasta biblioteca padrão que facilita o desenvolvimento de uma variedade de aplicativos.
+
+   - **Exemplo de código:**
+     ```python
+     def saudacao(nome):
+         print("Olá, " + nome + "!")
+
+     saudacao("Mundo")
+     ```
+
+3. **Ruby:**
+   - **Aplicabilidade:**
+     - Comumente usado no desenvolvimento web, especialmente com o framework Ruby on Rails.
+     - Conhecido por sua elegância e expressividade, o que facilita o desenvolvimento rápido de aplicações.
+
+   - **Características:**
+     - Sintaxe limpa e orientada a objetos.
+     - Suporte a metaprogramação, permitindo a criação dinâmica de classes e métodos em tempo de execução.
+     - Filosofia "convenção sobre configuração" (Convention over Configuration) e "DRY" (Don't Repeat Yourself).
+
+   - **Exemplo de código:**
+     ```ruby
+     def saudacao(nome)
+       puts "Olá, #{nome}!"
+     end
+
+     saudacao("Mundo")
+     ```
+
+Embora essas linguagens tenham algumas sobreposições em termos de aplicação, a escolha entre JavaScript, Python e Ruby geralmente depende dos requisitos específicos do projeto, das preferências da equipe de desenvolvimento e do ecossistema de ferramentas disponíveis para cada linguagem.
