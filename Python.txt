@@ -5,6 +5,8 @@
 for numero in range(1, 6):
     print(numero)
 
+OBS: A função range() retorna uma sequência de números, começando em 0 por padrão, e incrementando em 1 (por padrão), e parando antes de um número especificado.
+
 https://www.mycompiler.io/view/CfksSf7wACl
 
 Este código utiliza um loop `for` para iterar sobre os números de 1 a 5 e imprime cada número no console.
