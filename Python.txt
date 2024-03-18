@@ -1,0 +1,31 @@
+Claro! Aqui estão exemplos simples de uma estrutura de repetição (loop) e uma estrutura de tomada de decisão (condicional) em Python:
+
+### Estrutura de Repetição (Loop):
+
+#### Exemplo de Loop `for`:
+```python
+# Imprimir os números de 1 a 5 usando um loop for
+for numero in range(1, 6):
+    print(numero)
+```
+
+Este código utiliza um loop `for` para iterar sobre os números de 1 a 5 e imprime cada número no console.
+
+### Estrutura de Tomada de Decisão (Condicional):
+
+#### Exemplo de Estrutura `if-else`:
+```python
+# Verificar se um número é positivo, negativo ou zero
+numero = int(input("Digite um número: "))
+
+if numero > 0:
+    print("O número é positivo.")
+elif numero < 0:
+    print("O número é negativo.")
+else:
+    print("O número é zero.")
+```
+
+Neste exemplo, o programa pede ao usuário para inserir um número, e em seguida, utiliza uma estrutura `if-elif-else` para determinar se o número é positivo, negativo ou zero, imprimindo a mensagem correspondente.
+
+Esses são exemplos simples para ilustrar a sintaxe de uma estrutura de repetição e uma estrutura de tomada de decisão em Python. Você pode adaptar e expandir esses exemplos conforme necessário para atender aos requisitos específicos do seu projeto.
